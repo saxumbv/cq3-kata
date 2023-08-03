@@ -7,7 +7,7 @@
     "prettier": "prettier --check .",
     "prettier:fix": "prettier --write .",
     "start": "ts-node src/index.ts",
-		"test": "cross-env NODE_ENV=test NODE_ICU_DATA=node_modules/full-icu jest",
+		"test": "jest",
 		"types:check": "tsc --skipLibCheck --noEmit"
   },
   "engines": {
