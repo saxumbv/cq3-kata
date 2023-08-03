@@ -1,0 +1,16 @@
+{
+  "drinks": [
+    {
+      "name": "Heineken",
+      "quantity": 24
+    },
+    {
+      "name": "Hertog-Jan",
+      "quantity": 12
+    },
+    {
+      "name": "Lindemans 0.0",
+      "quantity": 6
+    }
+  ]
+}
